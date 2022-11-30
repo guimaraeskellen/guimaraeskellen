@@ -30,7 +30,7 @@
 <a href="https://www.python.org/" target="_blank"><img height="50" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></a>
 
 
-#### 🌱 &nbsp; I’m currently learning
+#### 🌱 &nbsp; I’m currently learning!
 
 
 
