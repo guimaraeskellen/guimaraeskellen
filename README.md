@@ -1,33 +1,50 @@
 
-<h3>Hi there, I'm Kellen</h3>
+## Hi there, I'm Kellen Guimaraes 👋</h3>
 
-<img align='right' src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" width="230">
-
-<p>
-<a href="https://www.linkedin.com/in/kellenguimaraes/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-<a href="mailto:kellen.adrielyc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
-</p>
-
-<p><em>Machine Learning Engineer at 
-<a href="https://nubank.com.br/">Nubank</a> 
-(<a href="https://github.com/guimaraeskellen">@guimaraeskellen</a>)
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  </em></p>
-
-#### 👨🏻‍💻 &nbsp; About me
+### Here is a brief introduction about myself.
 
 - 🎓 &nbsp; MSc in Electrical Engineering - Machine Learning;
-- 🤔 &nbsp; Building and deploying machine learning models;
-- 💻 &nbsp; Keeping Game Development and Code Challenges as hobbies/side hustles;
+- 🤔 &nbsp; Currently working as a Machine Learning Engineer, building and deploying machine learning models;
+- 💻 &nbsp; My interests are related to AI, machine learning and traveling.
 
-#### 🛠 &nbsp; Tech stack currently using
+---
 
-<a href="https://www.python.org/" target="_blank"><img height="50" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></a>
+### 📫 How to reach me 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/guimaraeskellen)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kellenguimaraes)
+<a href="https://www.kaggle.com/guimaraeskellen">
+  <img src="https://www.dataapplab.com/wp-content/uploads/2017/06/kaggle-logo-gray-300.png" width="60px" height="20px">
+</a>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:kellen.adriely@gmail.com)
+
+---
+
+### :robot: Here is my [data science & machine learning portfolio](https://sites.google.com/view/kellenguimaraes/p%C3%A1gina-inicial) 
+
+### :pencil: These are some articles I have written
+
+1. [Comparing Prediction of Early TBI Mortality with Multilayer Perceptron Neural Network and Convolutional Neural Network](https://pubmed.ncbi.nlm.nih.gov/36085670/)
+
+2. [Predicting early traumatic brain injury mortality with 1D convolutional neural networks and conventional machine learning techniques](https://www.sciencedirect.com/science/article/pii/S2352914822001289)
+
+### 🛠 &nbsp; Tech stacks currently using
+ - Python
+ - Scala
+ - GitHub
+ - Pandas
+ - Scikit-learn
+ - Databricks
+ 
+
+### 🌱 &nbsp; My currently learnings
+
+- ML for Finance.
+- ML Model Architecture.
+- Clean Code.
 
 
-#### 🌱 &nbsp; I’m currently learning!
 
-
+Thanks for passing by.
 
 
 
