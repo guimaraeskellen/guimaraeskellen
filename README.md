@@ -5,7 +5,7 @@
 
 - 🎓 &nbsp; MSc in Electrical Engineering - Machine Learning;
 - 🤔 &nbsp; Currently working as a Machine Learning Engineer, building and deploying machine learning models;
-- 💻 &nbsp; My interests are related to Software Engineering, Artificial Intelligence and Machine Learning.
+- 💻 &nbsp; My interests include Software Engineering, Artificial Intelligence and Machine Learning.
 
 ---
 
